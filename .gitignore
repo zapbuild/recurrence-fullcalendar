@@ -1,0 +1,26 @@
+# --------------------------------------- #
+#        Universal GIT Ignore File        #
+# - - - - - - - - - - - - - - - - - - - - #
+#  Version  : 1.0                         #
+#  Author   : Amandeep Singh              #
+#  Created  : Monday, April 25th, 2016    #
+#  Based On : https://www.gitignore.io    #
+# --------------------------------------- #
+
+# -- Generic / Misc ----------------------#
+
+.tmp
+
+# -- Node.js -----------------------------#
+
+node_modules
+
+# -- Bower.io --------------------------- #
+
+bower_components
+
+# -- NPM -------------------------------- #
+
+npm-debug.log
+
+=====================================

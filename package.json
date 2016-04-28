@@ -1,0 +1,16 @@
+{
+	"name": "RecurringFullCalendar",
+	"version": "0.1.0",
+	"description": "RecurringFullCalendar Application",
+	"repository": "http://git.c2c.local/amandeeps/RecurringFullCalendar.git",
+	"author": "RecurringFullCalendar <amandeepsingh@zapbuild.com>",
+	"license": "Copyright (c)  Zapbuild Technologies Pvt. Ltd. All Rights Reserved. See LICENSE.md for more information.",
+	"dependencies": {
+		"moment": "~2.13.0",
+		"bluebird": "~3.3.5"
+	},
+	"devDependencies": {
+		"grunt": "~1.0.1"
+	},
+	"scripts": {}
+}
